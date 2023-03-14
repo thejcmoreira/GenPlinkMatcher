@@ -5,7 +5,7 @@ In this GitHub page is possible to find:
 - Input files used and given as example.
 - Python code with the actual tool.
 - Bash script that will separate by country the output of the tool.
-- R shiny server with some statistical data (http://127.0.0.1:3667)
+- R shiny server with some statistical data.
 
 
 The prompt for this work was to:
@@ -34,6 +34,6 @@ Run Group_Country.sh
 > ./Group_Country.sh
 
 
-To check the brief statistical analysis given as example you can open (http://127.0.0.1:3667) and edit the files in R shiny directory for your data.
+To check the brief statistical analysis given as example you can open and edit the files in R shiny directory for your data.
 
 Devoloped by: Joel Moreira
