@@ -1,4 +1,4 @@
-# PLINK_PopGen_Project
+# GenPlinkMatcher
 Population Genetics Tool developed during BINP29
 
 In this GitHub page is possible to find:
