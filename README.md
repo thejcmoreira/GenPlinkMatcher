@@ -19,7 +19,7 @@ These can be obtained by:
   > grep "IND_ID" multi.ped > individual.ped
   
   Once you have both of your files you can run the python tool by:
-  > python3 PopGen.py user_individual_file.ped multi_individual_file.ped outputfile.txt
+  > python3 GenPlinkMatcher.py user_individual_file.ped multi_individual_file.ped outputfile.txt
   
   Where the output will be a 3 column file containing the individual id, the number of homozygous matches and the number of heterozygous matches.
   
