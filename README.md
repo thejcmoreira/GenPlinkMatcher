@@ -36,4 +36,4 @@ Run Group_Country.sh
 
 To check the brief statistical analysis given as example you can open and edit the files in R shiny directory for your data.
 
-Devoloped by: Joel Moreira
+Developed by: Joel Moreira
